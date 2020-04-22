@@ -1,5 +1,7 @@
 *.py linguist-detectable=true
-*.mat linguist-detectable=true
+*.m linguist-detectable=true
+*.mat linguist-detectable=false
 *.rtf linguist-detectable=false
 *.pdf linguist-detectable=false
 *.docx linguist-detectable=false
+*.doc linguist-detectable=false
